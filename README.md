@@ -33,25 +33,26 @@ Welcome to the CAB Booking Application! This application allows users to book ca
   * Java Development Kit (JDK) 8 or higher
   * MySQL
 
-## Installation
-  # Clone the repository:
+# Installation
+  ## Clone the repository:
 
   ```bash
   git clone https://github.com/yourusername/cab-booking-application.git
   cd cab-booking-application
   ```
-  # Database Configuration
+  ## Database Configuration
       
     Update the dbconfig.properties file with your MySQL credentials.
+    
     ```properties
     database.name=cab_booking
     database.user=root
     database.password=yourpassword
     ```
-## Database Configuration
+# Database Configuration
     The DatabaseConfiguration class sets up the database and creates the necessary tables. Ensure you have provided correct MySQL credentials in the dbconfig.properties file.
 
-    # Tables:
+   # Tables
         * Users
         * Drivers
         * Rides
@@ -84,10 +85,10 @@ Welcome to the CAB Booking Application! This application allows users to book ca
   
   ![Screenshot from 2024-06-12 10-35-29](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/a5993884-c5c5-409a-be16-f486ae0c0541)
 
-## Contributing
+# Contributing
 We welcome contributions from the community! If you find a bug or want to add a feature, please open an issue or submit a pull request.
 
-  # Steps to Contribute
+  ## Steps to Contribute
       * Fork the repository.
       * Create a new branch.
       * Make your changes.
