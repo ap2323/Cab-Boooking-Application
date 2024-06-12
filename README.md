@@ -48,7 +48,7 @@ database.password=yourpassword
 ```
 # Database Configuration
 The DatabaseConfiguration class sets up the database and creates the necessary tables. Ensure you have provided correct MySQL credentials in the dbconfig.properties file.
-# Tables
+## Tables
 * Users
 * Drivers
 * Rides
@@ -72,10 +72,10 @@ The DatabaseConfiguration class sets up the database and creates the necessary t
   ![Screenshot from 2024-06-12 10-32-05](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/0b444059-e9cd-475b-9046-dbce70f641f2)
 
 * Book a cab.
-  Provide the pickup and drop-off locations.
-  The application calculates the distance and approximate travel time.
-  Confirm the booking.
-  Receive SMS notification for booking confirmation(not implemented).
+* Provide the pickup and drop-off locations.
+* The application calculates the distance and approximate travel time.
+* Confirm the booking.
+* Receive SMS notification for booking confirmation(not implemented).
 
   ![Screenshot from 2024-06-12 10-33-12](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/b8a98f2f-11ab-4b5c-a096-61bfb6653a41)
 
