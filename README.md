@@ -39,7 +39,7 @@ Welcome to the CAB Booking Application! This application allows users to book ca
   ```bash
   git clone https://github.com/yourusername/cab-booking-application.git
   cd cab-booking-application
-  ```
+  ```bash
   ## Database Configuration
       
     Update the dbconfig.properties file with your MySQL credentials.
