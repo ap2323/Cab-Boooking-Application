@@ -60,21 +60,24 @@ The DatabaseConfiguration class sets up the database and creates the necessary t
 * User Registration.
 * Run the application.
 * Follow the prompts to register a new user or driver.
+  
   ![Screenshot from 2024-06-12 10-30-08](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/544a9377-a89c-4e95-89f6-191931feb923)
 
 * Log in using your credentials.
+  
   ![Screenshot from 2024-06-12 10-31-17](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/362edf82-a973-41e3-8358-6a2ec4387da5)
 
 * Log in as a user.
-   ![Screenshot from 2024-06-12 10-32-05](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/0b444059-e9cd-475b-9046-dbce70f641f2)
+  
+  ![Screenshot from 2024-06-12 10-32-05](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/0b444059-e9cd-475b-9046-dbce70f641f2)
 
 * Book a cab.
-Provide the pickup and drop-off locations.
-The application calculates the distance and approximate travel time.
-Confirm the booking.
-Receive SMS notification for booking confirmation(not implemented).
+  Provide the pickup and drop-off locations.
+  The application calculates the distance and approximate travel time.
+  Confirm the booking.
+  Receive SMS notification for booking confirmation(not implemented).
 
-![Screenshot from 2024-06-12 10-33-12](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/b8a98f2f-11ab-4b5c-a096-61bfb6653a41)
+  ![Screenshot from 2024-06-12 10-33-12](https://github.com/ap2323/Cab-Boooking-Application/assets/91046006/b8a98f2f-11ab-4b5c-a096-61bfb6653a41)
 
 * After completing a ride, log in as a user.
 * Rating a Driver. Provide a rating and comment for the driver.
