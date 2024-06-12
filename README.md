@@ -1,4 +1,4 @@
-**CAB Booking Application**
+# CAB Booking Application
 
 ## Table of Contents
 
@@ -24,12 +24,12 @@ Welcome to the CAB Booking Application! This application allows users to book ca
   * Database Management: The application uses MySQL for database management.
 
 ## Technologies Used
-  **Java:** Core programming language used for application development.
-  **JDBC:** Java Database Connectivity for database interaction.
-  **MySQL:** Database management system.
+  * **Java:** Core programming language used for application development.
+  * **JDBC:** Java Database Connectivity for database interaction.
+  * **MySQL:** Database management system.
 
 ## Setup
-Prerequisites
+## Prerequisites
   * Java Development Kit (JDK) 8 or higher
   * MySQL
 
