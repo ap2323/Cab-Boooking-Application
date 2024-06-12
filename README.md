@@ -42,8 +42,8 @@ cd cab-booking-application
 ## Database Configuration
 Update the dbconfig.properties file with your MySQL credentials.
 ```properties
-database.name=cab_booking
-database.user=root
+database.name=CaBbookingSystem
+database.user=yourusername
 database.password=yourpassword
 ```
 # Database Configuration
