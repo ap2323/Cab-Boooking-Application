@@ -36,7 +36,7 @@ Welcome to the CAB Booking Application! This application allows users to book ca
 # Installation
 ## Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cab-booking-application.git
+git clone https://github.com/ap2323/cab-booking-application.git
 cd cab-booking-application
 ```
 ## Database Configuration
